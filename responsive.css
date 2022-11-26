@@ -6,7 +6,7 @@
     .edit_address_overlay{
         position: absolute;
         right: 0;
-        width: 90%;
+        width: 100%;
         height: 100%;
         background-color: #fff;
         animation: rightToLeft 0.3s ease-out;
@@ -162,7 +162,7 @@
     .edit_address_overlay{
         position: absolute;
         right: 0;
-        width: 90%;
+        width: 100%;
         height: 100%;
         background-color: #fff;
         animation: rightToLeft 0.3s ease-out;
